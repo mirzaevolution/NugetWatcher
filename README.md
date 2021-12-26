@@ -1,5 +1,5 @@
 # NugetWatcher
-A simple tool for daily task to handle local generation of nuget by monitoring changes inside bin/debug folder(s) of the monitored project(s)
+A simple tool for daily tasks to handle local generation of nuget by monitoring changes inside bin/debug folder(s) of the monitored project(s)
 
 
 ![NugetWatcher](https://raw.githubusercontent.com/mirzaevolution/NugetWatcher/master/Assets/2021-12-27_02h14_54.png)
