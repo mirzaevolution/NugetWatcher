@@ -16,6 +16,7 @@ namespace NugetWatcher
         private readonly string _nugetFile = "nuget.exe";
         private readonly ConcurrentQueue<string> _raisedFilesQueue = new ConcurrentQueue<string>();
         private Timer _timer;
+
         public void Init()
         {
             if (!File.Exists(_configFile))
@@ -114,6 +115,7 @@ namespace NugetWatcher
                 return new List<string>();
             }
         }
+
         private bool RegisterWatchers(List<string> dirs)
         {
             try
