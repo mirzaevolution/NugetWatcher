@@ -1,2 +1,0 @@
-C:\Users\skyline\Source\Repos\Hero.Libraries\ProjectX.Common
-C:\Users\skyline\Source\Repos\Nuget RnD\Library\WeatherForecast.Library\WeatherForecast.Library
